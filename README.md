@@ -1,4 +1,4 @@
-# ticketMaster# El Proyecte Grande - Sprint 1
+# ticketMaster# El Proyecte Grande
 
 
 ## Project Overview
