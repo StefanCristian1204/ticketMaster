@@ -1,0 +1,10 @@
+.open-date{
+   min-width:25%;
+   transform:translateX(700px);
+   border:9px double #343a40;
+   border-radius: 12px;
+/*   background: linear-gradient(black, #343a40);*/
+
+
+}
+

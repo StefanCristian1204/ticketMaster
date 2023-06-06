@@ -1,0 +1,38 @@
+.featured{
+
+   border-radius:30%;
+   width:50%;
+
+}
+
+.cardz{
+    background: linear-gradient(black, #343a40);
+
+    box-shadow: 2px 2px 2px 2px rgba(13, 14, 14, 0.94);
+
+}
+.cardz:hover{
+cursor:pointer;
+}
+.basic{
+
+}
+
+.backcardz{
+    background: linear-gradient(#1f1f1e, #343a40);
+
+    box-shadow: 2px 2px 2px 2px rgba(13, 14, 14, 0.94);
+}
+.backcardz:hover{
+     cursor:pointer;
+ }
+
+
+@media screen and (max-width: 768px) {
+
+
+    .cardz,
+    .backcardz {
+        width: 100%;
+    }
+}
